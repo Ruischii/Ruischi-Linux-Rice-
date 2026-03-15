@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Latest commits for file flake.lock</title>
+    <link>https://codeberg.org/brustybee/beeSystems/branch/main/flake.lock</link>
+    <description>My personal nix config</description>
+    <pubDate>Sun, 15 Mar 2026 11:28:56 +0100</pubDate>
+    <item>
+      <title>neovim matugen template</title>
+      <link>https://codeberg.org/brustybee/beeSystems/commit/14b0ceb90c80793f013ebff6d824c2cead544501</link>
+      <description>neovim matugen template&#xA;</description>
+      <content:encoded><![CDATA[neovim matugen template
+]]></content:encoded>
+      <author>brustybee</author>
+      <guid>14b0ceb90c80793f013ebff6d824c2cead544501</guid>
+      <pubDate>Sun, 15 Mar 2026 02:55:19 +0530</pubDate>
+    </item>
+    <item>
+      <title>system24 matugen template</title>
+      <link>https://codeberg.org/brustybee/beeSystems/commit/8ae1bc8bc07b938a7fa44106ce699ad0dc17b510</link>
+      <description>system24 matugen template&#xA;</description>
+      <content:encoded><![CDATA[system24 matugen template
+]]></content:encoded>
+      <author>brustybee</author>
+      <guid>8ae1bc8bc07b938a7fa44106ce699ad0dc17b510</guid>
+      <pubDate>Sat, 14 Mar 2026 02:05:44 +0530</pubDate>
+    </item>
+    <item>
+      <title>i like it boxy fix xorg systemd services startup and more</title>
+      <link>https://codeberg.org/brustybee/beeSystems/commit/6b7b13a08b0df2cb22d3927d9d4e24e48b006120</link>
+      <description>i like it boxy fix xorg systemd services startup and more&#xA;</description>
+      <content:encoded><![CDATA[i like it boxy fix xorg systemd services startup and more
+]]></content:encoded>
+      <author>brustybee</author>
+      <guid>6b7b13a08b0df2cb22d3927d9d4e24e48b006120</guid>
+      <pubDate>Fri, 13 Mar 2026 14:28:33 +0530</pubDate>
+    </item>
+    <item>
+      <title>fix(swayide): resume command to restore brightness</title>
+      <link>https://codeberg.org/brustybee/beeSystems/commit/c3f5799c70a15902e706d65d09fc4565267c5064</link>
+      <description>fix(swayide): resume command to restore brightness&#xA;</description>
+      <content:encoded><![CDATA[fix(swayide): resume command to restore brightness
+]]></content:encoded>
+      <author>brustybee</author>
+      <guid>c3f5799c70a15902e706d65d09fc4565267c5064</guid>
+      <pubDate>Fri, 13 Mar 2026 00:56:03 +0530</pubDate>
+    </item>
+    <item>
+      <title>diable dwm update flake add element-desktop</title>
+      <link>https://codeberg.org/brustybee/beeSystems/commit/e2e728e1a5cee23258d7620d81c4a6fd80e45858</link>
+      <description>diable dwm update flake add element-desktop&#xA;</description>
+      <content:encoded><![CDATA[diable dwm update flake add element-desktop
+]]></content:encoded>
+      <author>brustybee</author>
+      <guid>e2e728e1a5cee23258d7620d81c4a6fd80e45858</guid>
+      <pubDate>Thu, 12 Mar 2026 10:58:22 +0530</pubDate>
+    </item>
+    <item>
+      <title>Add dwm</title>
+      <link>https://codeberg.org/brustybee/beeSystems/commit/6d8eec22cddf0be0c190fb06c88f9fd9e3838757</link>
+      <description>Add dwm&#xA;</description>
+      <content:encoded><![CDATA[Add dwm
+]]></content:encoded>
+      <author>brustybee</author>
+      <guid>6d8eec22cddf0be0c190fb06c88f9fd9e3838757</guid>
+      <pubDate>Wed, 11 Mar 2026 10:38:51 +0530</pubDate>
+    </item>
+    <item>
+      <title>pretty boy</title>
+      <link>https://codeberg.org/brustybee/beeSystems/commit/870745197024128e29c4f461a0e09d36dcf348bb</link>
+      <description>pretty boy&#xA;</description>
+      <content:encoded><![CDATA[pretty boy
+]]></content:encoded>
+      <author>brustybee</author>
+      <guid>870745197024128e29c4f461a0e09d36dcf348bb</guid>
+      <pubDate>Tue, 10 Mar 2026 01:45:09 +0530</pubDate>
+    </item>
+    <item>
+      <title>add my vim flake and enable my neovim</title>
+      <link>https://codeberg.org/brustybee/beeSystems/commit/cb81e151e519ec44439b9fd8480890df65fc48ea</link>
+      <description>add my vim flake and enable my neovim&#xA;</description>
+      <content:encoded><![CDATA[add my vim flake and enable my neovim
+]]></content:encoded>
+      <author>brustybee</author>
+      <guid>cb81e151e519ec44439b9fd8480890df65fc48ea</guid>
+      <pubDate>Mon, 09 Mar 2026 18:15:18 +0530</pubDate>
+    </item>
+    <item>
+      <title>Add firefox and zen browser</title>
+      <link>https://codeberg.org/brustybee/beeSystems/commit/b7ab4668c6dd7d6b153b9bf7ea3923ebe93f1ddd</link>
+      <description>Add firefox and zen browser&#xA;</description>
+      <content:encoded><![CDATA[Add firefox and zen browser
+]]></content:encoded>
+      <author>brustybee</author>
+      <guid>b7ab4668c6dd7d6b153b9bf7ea3923ebe93f1ddd</guid>
+      <pubDate>Sat, 07 Mar 2026 03:29:12 +0530</pubDate>
+    </item>
+  </channel>
+</rss>
